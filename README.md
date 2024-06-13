@@ -1,5 +1,5 @@
 # Omakora
 
-An Omakase Developer Setup for Fedora 40 by DHH.
+An Omakase Developer Setup for Fedora 40 by Carmine Paolino.
 
-See https://github.com/basecamp/omakora for more.
+See https://github.com/crmne/omakora for more.

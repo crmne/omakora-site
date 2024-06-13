@@ -17,7 +17,7 @@ sudo apt-get update > /dev/null
 sudo apt-get install -y git > /dev/null
 
 echo "Cloning Omakora..."
-git clone https://github.com/basecamp/omakora.git ~/.local/share/omakora > /dev/null
+git clone https://github.com/crmne/omakora.git ~/.local/share/omakora > /dev/null
 
 echo "Installation starting..."
 source ~/.local/share/omakora/install.sh
